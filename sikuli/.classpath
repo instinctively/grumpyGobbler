@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/sikuli/sikuli-script.jar"/>
+	<classpathentry kind="lib" path="E:/sikuli/sikuli-tessdata.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashish/Downloads/sikuli-api-1.0.2-standalone.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/selenium-2.47.1/selenium-java-2.47.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/Tess4J/Tess4J/dist/tess4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
